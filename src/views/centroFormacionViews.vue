@@ -1,16 +1,16 @@
 <template>
     <div >
-      <centroFormacion></centroFormacion>
+      <centro></centro>
     </div>
   </template>
   
   <script>
 
-  import centroFormacion from '@/components/centroFormacion.vue'
+  import centro from '@/components/centroFormacion.vue'
 
   export default {
    components:{
-    centroFormacion,
+    centro,
   }
   
   }

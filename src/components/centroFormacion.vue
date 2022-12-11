@@ -29,7 +29,7 @@ export default{
   data(){
       return{
         errors:[],
-        centroFormacion
+        centroFormacion:null
       }
   },
   methods:{
